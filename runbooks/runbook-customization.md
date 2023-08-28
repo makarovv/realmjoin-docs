@@ -40,7 +40,7 @@ The RealmJoin Portal parses a runbook's PowerShell param block to determine whic
 The following data types are currently understood:
 
 * `[bool]`, `[boolean]` - will present a binary toggle
-* `[string` - will present a textbox to type any alphanumeric input
+* `[string]` - will present a textbox to type any alphanumeric input
 * `[int]` - will present a textbox, only allowing numeric inputs
 * `[DateTime]`, `[DateTimeOffset]` - Will present a date/time picker
 
